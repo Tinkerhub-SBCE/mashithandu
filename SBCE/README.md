@@ -4,7 +4,7 @@
 # How to contribute
 
 - Goto SBCE directory
-- Inside the Members, directory Create a file like:
+- Inside the Members directory, Create a file like:
 
 ```yaml
 githu-username/your_first_name.md
@@ -23,3 +23,6 @@ quote: Always love Github, and Always love Coding.
 github_user_name: username
 ---
 ```
+- Commit changes 
+- Create a Pull Request 
+- Thats all :) you are done!

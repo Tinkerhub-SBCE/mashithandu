@@ -3,16 +3,15 @@
 
 # How to contribute
 
-- Goto SBCE directory
-- Inside the Members directory, Create a file like:
-
+- In this directory
+- Create a file like:
 ```yaml
-githu-username/your_first_name.md
+githu-username.md
 ```
 ```markdown
-💡 eg: joeljsv/Joel.md
+💡 eg: joeljsv.md
 ```
-- And add the following details inside the MD file:
+- Copy and add the following details inside the MD file:
 
 ```markdown
 ---
